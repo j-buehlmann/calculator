@@ -7,12 +7,12 @@
     --btn: rgb(197, 197, 197);
     --btn-hover: #ddd;
     --btn-active: #ccc;
-    --btn-red: #faa;
+    --btn-red: rgb(255, 177, 177);
     --btn-red-hover: #e99;
     --btn-red-active: #d88;
-    --btn-blue: #aaf;
-    --btn-blue-hover: #99e;
-    --btn-blue-active: #88d;
+    --btn-blue: rgb(93, 199, 245);
+    --btn-blue-hover: rgb(133, 216, 252);
+    --btn-blue-active: rgb(19, 36, 43);
   
 }
 
